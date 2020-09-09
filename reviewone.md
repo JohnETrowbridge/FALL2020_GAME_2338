@@ -10,7 +10,7 @@ https://whalesandgames.itch.io/art-fight-duel
 
 ### Rating
 
-On a scale from 1 to 10, I would give this game a 8 out of 10 rating.
+On a scale from 1 to 10, I would give this game an 8 out of 10 rating.
 
 ## Summary
 
