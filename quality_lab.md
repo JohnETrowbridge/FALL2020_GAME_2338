@@ -1,6 +1,6 @@
 # Quality Lab
 
-## Game 1: Skyrim: Elder Scrolls
+## Game 1: Skyrim: The Elder Scrolls
 
 Answer
 
