@@ -22,11 +22,7 @@ Each individual section of the island has a couple of levels, a few secrets that
 
 ## Final Thoughts
 
-Describe in as much detail as possible what you did and didn't enjoy about the
-game and list out your reasons why. Remember this is a review and thus should
-stand up to some criticism when making your reasons why you thought this way
-about particular features of the game. This should be at a minimum of 1
-paragraph.
+Donkey Kong Country 3 was one of the very first console games I played as a kid. Originally, I played it when the game was ported to Gameboy Advance. To have the game return for Nintendo's Virtual Console collection allowed me to experience heavy amounts of nostalgia. Nintendo and Rare have brought life to many characters from Banjo and Kazooie to Donkey Kong and Diddie Kong. What made their games so amazing was the secrets; without RARE's creativity, I would not have known that games could be more than their primary objectives. Donkey Kong Country 3 could be played like a speedrun or just as an exploration game all wrapped up into a fun little package of challenges. The only thing that I had frustration with was the areas that could only be accessed with both Kongs. One could complete the level, but you could potentially get stuck or start the level all over again by making a near-fatal mistake that left you with just one Kong but no backup strategy except suicide. The game still made an amazing experience to make up for one small frustration. The game challenged the experienced player while allowing for the casual player to just make their way through the game; truly, this game was perfect for its era.
 
 ## Additional Information
 
