@@ -1,4 +1,4 @@
-# Game Review for (Donkey Kong Country 3)
+# Game Review for Donkey Kong Country 3
 
 ## Details
 
