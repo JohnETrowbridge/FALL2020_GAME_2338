@@ -14,9 +14,7 @@ On a scale from 1 to 10, I give this game an 8 out of 10.
 
 ## Summary
 
-This game is about... this should be at least 3-4 paragraphs summarizing the
-game play mechanics of the game. You should be answering the who, what,
-when, where, why, and how of the game itself.
+Retro games are numerous because, as years go by, one generation of technology and creativity will inevitably replace the previous one. As
 
 ## Final Thoughts
 
