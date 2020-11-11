@@ -56,7 +56,7 @@
 
 ## Overall Test Status:
 
-The test has been concluded, and the program's functional test has been successfully completed. More functions will need to be added in order to have the computer check for any abnormalities such as long or incorrect timer inputs by the host, too many hiders being disconnected from the game, and seeker being disconnected from the game. A simple and basic test has been completed of the game's functions so far and have successfully functioned as programmed. Further tests will follow as more functions are added to base program.
+The test has been concluded, and the program's functional test has been successfully completed. More functions will need to be added in order to have the computer check for any abnormalities such as long or incorrect timer inputs by the host, too many hiders being disconnected from the game, and seeker being disconnected from the game. A simple and basic test has been completed of the game's functions so far and have successfully functioned as programmed. Further tests will follow as more functions are added to the base program.
 
 ## Run History:
 | # |	Run Date |	Run By |	Results |
