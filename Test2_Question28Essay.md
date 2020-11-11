@@ -35,25 +35,28 @@
   * Keybind or command for movement of up, down, left, and right must be functional.
   * Level must be designed and implemented into the program.
   * Ensure that when the character comes to an unwalkable area that the character can't walk on the area.
-  * Ensure that the computer timers and subsequent programs function on command.
-  * 
+  * Ensure that the computer timers and subsequent programs function as designated.
+  * Host can set timers for the computer.
+  * Hiders and Seekers are available and designated.
+  * Seeker can call when a player is found.
+  * Results screen is designed and variables are available and tracked to be displayed.
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
 | 1 | Game Start Up. | Game starts up. | √ |			
-| 2 | Character begins to scroll. | Character scrolls through the map. | √ |			
-| 3 | Character moves up and down. | Character successfully moves up and down. | √ |			
-| 4 | Objects begin to spawn. | Objects are spawning from the right side of the screen. | √ |			
-| 5 | Character begins shooting at objects. | Objects are being shot at and are disappearing when contact is made by projectile. | √ |			
-| 6 | Character moves right when shooting. | Character begins to move to the right side of the screen while shooting. | √ |			
-| 7 | Character stops shooting when reaching a certain point on the screen and allows for character location reset. | Character stops shooting while present on a specified point on the map. | √ |			
-| 8 | Character begins to move left to a certain point while shooting is absent until safe. | Character has stopped shooting and moved left to specified point. | √ |			
-| 9 | Character resumes shooting when location is reset on left. | Character continues to shoot when location on map on the left is touched. | √ |			
-| 10 | Character repeats process until object strikes the character. | Test has resumed until computer has failed to keep the character out of harms' way. | √ |			
+| 2 | Host selects the timers. | Timers are entered and inputted into the game. | √ |			
+| 3 | Hiders and Seekers are designated. | Hiders and Seekers are designated and displayed. | √ |			
+| 4 | Map and Characters load onto the screen. | Map has been loaded and the characters are spawned at the starting locations. | √ |			
+| 5 | Timer begins to count down for Hiders to hide. | Timer has counted until reaching zero. | √ |			
+| 6 | Hiders can move their character around the map-up, down, left, and right. | Controls are no longer halted for the hiders. | √ |	
+| 7 | Seeker is released to go find players after Hide Timer ends. | Controls are no longer halted for the seeker. | √ |			
+| 8 | Seeker looks for players and executes command when near hiding player. | Command is executed for finding a hider. | √ |			
+| 9 | Hider is eliminated. | Hider character is eliminated from instance and is given spectator of seeker while eliminated. | √ |	
+| 10 | All hiders are found or timer runs out. | Results are displayed if the game was completed by seeker or the timer ran out. | √ |			
 
 ## Overall Test Status:
 
-The test has been concluded, and the program's automated test has successfully performed and completed all tasks given above. Character has successfully moved up and down, shot objects, reset its location when in danger, and exploded on impact with object. These functions have been performed automatically without any outside help from developers. Testing tool is ready to be utilized by developers for purposes defined at their discretion.
+The test has been concluded, and the program's functional test has been successfully completed. More functions will need to be added in order to have the computer check for any abnormalities such as long or incorrect timer inputs by the host, too many hiders being disconnected from the game, and seeker being disconnected from the game. A simple and basic test has been completed of the game's functions so far and have successfully functioned as programmed. Further tests will follow as more functions are added to base program.
 
 ## Run History:
 | # |	Run Date |	Run By |	Results |
