@@ -12,7 +12,7 @@ _What company developed this test tool?_
 
 _Does this tool do any test case storage/recording?_ 
 
-* No
+* Yes
 
 _Does this tool allow tester to link requirements or defects to test cases?_ 
 
@@ -62,25 +62,27 @@ _If it is an automated tool, does it work with web-based tools? What languages (
 
 _What is the name of the test tool?_ 
 
-Tool Name
+Rational Functional Tester
 
 _What company developed this test tool?_ 
 
-Company Name
+Rational Software (division of IBM)
 
 _Does this tool do any test case storage/recording?_ 
 
-Answer
+Yes
 
 _Does this tool allow tester to link requirements or defects to test cases?_ 
 
-Answer
+Yes
 
 _If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
 
-Answer
+Yes | Java and Java-based languages.
 
 ### Tool Features
-* Feature One
-* Feature Two
-* Feature Three
+* Feature One: The tool automates functional testing and regressional testing of a program by behaving like a human user. The human user experience range is programmed by the tool's user.
+
+* Feature Two: The tool allows users to edit programming that has been screenshotted using a feature known as Storyboard Editting. The screenshot is rendered as code and is placed in the program to be actively editted by the tool's user.
+
+* Feature Three: The tool records the actions of the user. When a new test is being conducted, the old tests are referenced and allow the tool to cross-reference and give intelligent maintenance to the script.
