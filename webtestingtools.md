@@ -12,7 +12,7 @@ _What company developed this test tool?_
 
 _Does this tool do any test case storage/recording?_ 
 
-* Yes
+* No
 
 _Does this tool allow tester to link requirements or defects to test cases?_ 
 
@@ -33,28 +33,30 @@ _If it is an automated tool, does it work with web-based tools? What languages (
 
 _What is the name of the test tool?_ 
 
-Tool Name
+* Ranorex
 
 _What company developed this test tool?_ 
 
-Company Name
+* Ranorex GmbH
 
 _Does this tool do any test case storage/recording?_ 
 
-Answer
+* Yes
 
 _Does this tool allow tester to link requirements or defects to test cases?_ 
 
-Answer
+* Yes
 
 _If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
 
-Answer
+* Yes, it works like Selenium due to Selenium's integration. | VB.NET, C#, HTML5, and Java.
 
 ### Tool Features
-* Feature One
-* Feature Two
-* Feature Three
+* Feature One: Ranorex's main purpose is to test the Graphic User Interfaces of native, web-based, and desktop applications.
+
+* Feature Two: The program allows the user to program user test cases from scratch and edit recordings of test cases.
+
+* Feature Three: The user can separate GUI objects from each other and test them individually by utilizing a built-in object repository.
 
 ## Tool Three
 
