@@ -2,25 +2,25 @@
 
 ## Tool One
 
-Appium
-
 Tool Name
+
+* Appium
 
 _What company developed this test tool?_ 
 
-Dan Cuellar
+* Dan Cuellar
 
 _Does this tool do any test case storage/recording?_ 
 
-Yes
+* Yes
 
 _Does this tool allow tester to link requirements or defects to test cases?_ 
 
-Yes
+* Yes
 
 _If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
 
-Yes | Java, Ruby, Python, PHP, JavaScript, and C#
+* Yes | Java, Ruby, Python, PHP, JavaScript, and C#
 
 ### Tool Features
 * Feature One: Appium is cross-platform between iOS, Android, and Windows. This cross-platform ability enables the tool to write tests against multiple platforms using the same API which allows for code reuse from the platforms.
